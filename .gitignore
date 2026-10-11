@@ -1,0 +1,19 @@
+# IDE配置
+.idea/
+.vscode/
+
+# Python虚拟环境
+.venv/
+venv/
+
+# 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据库文件（本地sqlite，不要上传）
+*.db
+
+# 其他
+*.log

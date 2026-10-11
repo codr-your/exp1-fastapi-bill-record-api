@@ -1,0 +1,15 @@
+E:\PythonWork\exp1_task2_fastapi_bookkeeping\tests
+
+============================= test session starts =============================
+collecting ... collected 4 items
+
+test_api.py::test_create_normal_record PASSED                            [ 25%]服务已关闭
+
+test_api.py::test_create_bad_amount_zero PASSED                          [ 50%]服务已关闭
+
+test_api.py::test_create_wrong_type PASSED                               [ 75%]服务已关闭
+
+test_api.py::test_summary_query PASSED                                   [100%]服务已关闭
+
+
+============================== 4 passed in 0.27s ==============================
